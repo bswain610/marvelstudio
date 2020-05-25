@@ -1,0 +1,5 @@
+react is for the components and react-dom is for rendering the components in the DOM. 'react-dom' acts as a glue between components and DOM. You will be using render() method of the react-dom to render components in the DOM and that's all you have to know when you are starting off with it.
+1. what is jsx?
+javi vi react ke ander html tag jesa element use kar rhe ho  apka html nahi useko jsx kate h.
+2. in react v16 its possible for render()
+3.to return an array of elements.
